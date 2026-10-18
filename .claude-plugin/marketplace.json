@@ -1,0 +1,13 @@
+{
+  "name": "claude-grammar-fix",
+  "description": "Grammar and tone cleanup for prompts typed into Claude Code",
+  "owner": {
+    "name": "vmaksimovski"
+  },
+  "plugins": [
+    {
+      "name": "grammar-fix",
+      "source": "./"
+    }
+  ]
+}

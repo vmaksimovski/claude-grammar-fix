@@ -1,0 +1,8 @@
+{
+  "name": "grammar-fix",
+  "version": "0.1.0",
+  "description": "Fixes grammar and informal wording in the text you type before it reaches Claude, leaving pasted content and code untouched",
+  "author": {
+    "name": "vmaksimovski"
+  }
+}
